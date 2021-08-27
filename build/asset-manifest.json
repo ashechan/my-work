@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/my-work/static/css/main.568cbcf9.chunk.css",
+    "main.js": "/my-work/static/js/main.a6a4c603.chunk.js",
+    "main.js.map": "/my-work/static/js/main.a6a4c603.chunk.js.map",
+    "runtime-main.js": "/my-work/static/js/runtime-main.b04bfdc1.js",
+    "runtime-main.js.map": "/my-work/static/js/runtime-main.b04bfdc1.js.map",
+    "static/css/2.301e199a.chunk.css": "/my-work/static/css/2.301e199a.chunk.css",
+    "static/js/2.bf2bce0c.chunk.js": "/my-work/static/js/2.bf2bce0c.chunk.js",
+    "static/js/2.bf2bce0c.chunk.js.map": "/my-work/static/js/2.bf2bce0c.chunk.js.map",
+    "static/js/3.cb68ba4c.chunk.js": "/my-work/static/js/3.cb68ba4c.chunk.js",
+    "static/js/3.cb68ba4c.chunk.js.map": "/my-work/static/js/3.cb68ba4c.chunk.js.map",
+    "index.html": "/my-work/index.html",
+    "static/css/2.301e199a.chunk.css.map": "/my-work/static/css/2.301e199a.chunk.css.map",
+    "static/css/main.568cbcf9.chunk.css.map": "/my-work/static/css/main.568cbcf9.chunk.css.map",
+    "static/js/2.bf2bce0c.chunk.js.LICENSE.txt": "/my-work/static/js/2.bf2bce0c.chunk.js.LICENSE.txt",
+    "static/media/bayo2.29fc73c3.png": "/my-work/static/media/bayo2.29fc73c3.png",
+    "static/media/App.css": "/my-work/static/media/blk.406d0970.jpg",
+    "static/media/breathe.4e3011e5.png": "/my-work/static/media/breathe.4e3011e5.png",
+    "static/media/brm.3fabd114.png": "/my-work/static/media/brm.3fabd114.png",
+    "static/media/brp.2656675f.png": "/my-work/static/media/brp.2656675f.png",
+    "static/media/clip.7ec4aa8f.jpg": "/my-work/static/media/clip.7ec4aa8f.jpg",
+    "static/media/ivyp.f0128dd3.png": "/my-work/static/media/ivyp.f0128dd3.png",
+    "static/media/me.f2198e79.jpg": "/my-work/static/media/me.f2198e79.jpg",
+    "static/media/netta.9d2978fd.jpg": "/my-work/static/media/netta.9d2978fd.jpg",
+    "static/media/nier.3c75c593.png": "/my-work/static/media/nier.3c75c593.png",
+    "static/media/nscwebs.229d1d0b.png": "/my-work/static/media/nscwebs.229d1d0b.png",
+    "static/media/outer.0cffc918.png": "/my-work/static/media/outer.0cffc918.png",
+    "static/media/rps.c74087f7.jpg": "/my-work/static/media/rps.c74087f7.jpg",
+    "static/media/vervain.4849fc0a.jpg": "/my-work/static/media/vervain.4849fc0a.jpg",
+    "static/media/ytlogo.e71352e7.png": "/my-work/static/media/ytlogo.e71352e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b04bfdc1.js",
+    "static/css/2.301e199a.chunk.css",
+    "static/js/2.bf2bce0c.chunk.js",
+    "static/css/main.568cbcf9.chunk.css",
+    "static/js/main.a6a4c603.chunk.js"
+  ]
+}
