@@ -19,7 +19,7 @@ export const Navbar = () => {
                 <a  to="https://ashechan.github.io/" className="nav-link " href="https://ashechan.github.io/">Home</a>
               </li>
               <li className="nav-item">
-              <a  to="https://ashechan.github.io/about" className="nav-link " href="https://ashechan.github.io/about">About</a>
+              <a  to="https://ashechan.github.io/about" className="nav-link " href="https://ashechan.github.io/about">About Me</a>
               </li>
               <li className="nav-item">
               <a  to="https://ashechan.github.io/experience" className="nav-link " href="https://ashechan.github.io/experience">Experience</a>              </li>
