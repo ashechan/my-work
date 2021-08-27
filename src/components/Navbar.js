@@ -16,18 +16,18 @@ export const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ml-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a  to="https://ashechan.github.io/" className="nav-link " href="https://ashechan.github.io/">Home</a>
+                <a  to="//ashechan.github.io/" className="nav-link " href="https://ashechan.github.io/">Home</a>
               </li>
               <li className="nav-item">
-              <a  to="https://ashechan.github.io/about" className="nav-link " href="https://ashechan.github.io/about">About Me</a>
+              <a  to="//ashechan.github.io/about" className="nav-link " href="https://ashechan.github.io/about">About Me</a>
               </li>
               <li className="nav-item">
-              <a  to="https://ashechan.github.io/experience" className="nav-link " href="https://ashechan.github.io/experience">Experience</a>              </li>
+              <a  to="//ashechan.github.io/experience" className="nav-link " href="https://ashechan.github.io/experience">Experience</a>              </li>
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#">My Work</a>
+                <a className="nav-link active" aria-current="page" href="https://ashechan.github.io/my-work/">My Work</a>
               </li>
               <li className="nav-item">
-              <a  to="https://ashechan.github.io/contact" className="nav-link " href="https://ashechan.github.io/contact">Contact Me</a>
+              <a  to="//ashechan.github.io/contact" className="nav-link " href="https://ashechan.github.io/contact">Contact Me</a>
               </li>
             </ul>
           </div>
